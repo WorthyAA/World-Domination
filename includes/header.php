@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
     <div class="container">
-        <a class="navbar-brand" href="185.233.186.89" target="_blank">
+        <a class="navbar-brand" href="" target="_blank">
             <i class="material-icons">public</i> Мировое Господство
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,8 +24,8 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="185.233.186.89" target="_blank">
-                        <i class="material-icons">attach_money</i> Boosty
+                    <a class="nav-link" href="" target="_blank">
+                        <i class="material-icons">attach_money</i>
                     </a>
                 </li>
             </ul>
